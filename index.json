@@ -13,7 +13,7 @@
 "updates":{"fallbackToCacheTimeout":0},
 "ios":{"supportsTablet":true},
 "locales":{},
-"assetBundlePatterns": [
+"bundleAssets": [
       "**/*"
     ],
 "assetUrlOverride":"./assets",
